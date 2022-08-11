@@ -1,3 +1,5 @@
+### [Link to the Multi-cloud Newsletter Lab sessions](https://b2csa.hubs.vidyard.com/watch/NqzBXdjcQFGPnSyutVP6ai)
+
 # Chat bot Setup
 - [Chat bot Setup](#chat-bot-setup)
   - [Omni-Channel Settings:](#omni-channel-settings)
